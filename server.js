@@ -23,10 +23,6 @@ mongoose.connect(MONGODB_URI, {
 });
 
 // routes
-app.get("/", function (req, res) {
-  res.render("index.html");
-});
-
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
