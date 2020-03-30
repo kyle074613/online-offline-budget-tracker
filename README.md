@@ -1,10 +1,10 @@
 # online-offline-budget-tracker
 
-This website allows the user to keep track of their budget by inptting a series of transactions. The transactions are then graphed to show a visual representation of the users' total balance. This site has offline functionality, so the user can enter data while there is no internet connection. The database will then be updated once interne connection is restored, giving the site full offline/online functionality.
+This website allows the user to keep track of their budget by inputting a series of transactions. The transactions are then graphed to show a visual representation of the user's total balance. This site has offline functionality, so the user can enter data while there is no internet connection. The database will then be updated once internet connection is restored, giving the site full offline/online functionality.
 
 ## Usage
 
-All that you need to do is go to https://workout-tracker-bootcamp-app.herokuapp.com/ and play around, no additional actions are required!
+All that you need to do is go to https://morning-chamber-52364.herokuapp.com/ and play around, no additional actions are required!
 
 
 ## Built With
