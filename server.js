@@ -24,10 +24,7 @@ mongoose.connect(MONGODB_URI, {
 });
 
 // routes
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "./public/index.html"));
-});
-
+require("./routes/htmlRoutes.js")(app);
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
