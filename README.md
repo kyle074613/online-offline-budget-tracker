@@ -1,6 +1,6 @@
 # online-offline-budget-tracker
 
-This website allows teh user to keep track of their budget by inptting a series of transactions. The transactions are then graphed to show a visual representation of the users' total balance. This site has offline functionality, so the user can enter data while there is no internet connection. The database will then be updated once interne connection is restored, giving the site full offline/online functionality.
+This website allows the user to keep track of their budget by inptting a series of transactions. The transactions are then graphed to show a visual representation of the users' total balance. This site has offline functionality, so the user can enter data while there is no internet connection. The database will then be updated once interne connection is restored, giving the site full offline/online functionality.
 
 ## Usage
 
